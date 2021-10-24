@@ -1,0 +1,40 @@
+ .cstm-height-card .card-img-top {
+  height: 100px;
+  object-fit: cover;
+}
+
+@media (max-width: 2000px){
+#blood_row{
+max-width: 25%;
+}
+#blood{
+	margin-top: 0px;
+}
+.card-body {
+	height:400px;
+}
+}
+
+@media (max-width: 1200px){
+#blood_row{
+max-width: 100%;
+}
+#blood{
+	margin-top: 20px;
+}
+.card-body {
+	height:350px;
+}
+}
+
+@media (max-width: 630px){
+#blood_row{
+max-width: 100%;
+}
+#blood{
+	margin-top: 20px;
+}
+.card-body {
+	height:330px;
+}
+}

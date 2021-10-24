@@ -1,0 +1,6 @@
+[16-Oct-2021 12:01:44 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/bloodon1/public_html/scanner/index.php on line 3
+[16-Oct-2021 12:01:44 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bloodon1/public_html/scanner/index.php on line 3
+[16-Oct-2021 12:08:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bloodon1/public_html/scanner/index.php on line 5
+[16-Oct-2021 12:10:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bloodon1/public_html/scanner/index.php on line 5
+[16-Oct-2021 12:44:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bloodon1/public_html/scanner/index.php on line 5
+[17-Oct-2021 03:41:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bloodon1/public_html/scanner/index.php on line 5
